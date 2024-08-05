@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Manish prajapati! 👋
+A  Web developer and AR developer
 
-<!--
-**manishpra219/manishpra219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 connects with me
 
-Here are some ideas to get you started:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-prajapati-7a7649292/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manish_prajapati1908/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishpra1908@gmail.com)
+
+
+## 🛠 Languges and Tools
+Html,css,javascript,tailwind,c,c++,python,java,c sharp,vs code,unity,Augmented Reality.
