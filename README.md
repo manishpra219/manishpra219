@@ -1,5 +1,5 @@
 # Hi, I'm Manish prajapati! 👋
-A  Web developer and AR developer
+A FULL STACK DEVELOPER
 
 ## 🔗 connects with me
 
@@ -11,4 +11,4 @@ A  Web developer and AR developer
 
 
 ## 🛠 Languges and Tools
-Html,css,javascript,tailwind,c,c++,python,java,c sharp,vs code,unity,Augmented Reality.
+Html,css,javascript,tailwind,django,c,c++,python,java,c sharp,vs code,unity,Augmented Reality.
